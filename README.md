@@ -2,19 +2,16 @@
   <img src="https://media3.giphy.com/media/liUhPmZdArpYc/giphy.gif?cid=790b7611a1aaad239d6500d76e2a45ad5fdbc3ba8d7ce562&rid=giphy.gif&ct=g" height="140px">
 </p>
 
-### A viagem de Matheus
+### Matheus' Journey!
 
-<!--
-**Maath-Lima/Maath-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer living in Recife, Brazil, more focused on backend development with the stacks listed in the toolbox bellow.
 
-Here are some ideas to get you started:
+Away from the codes in my spare time, I am trying to be a reasonable guitarist/keyboardist🎸🎹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="35">
+
+---

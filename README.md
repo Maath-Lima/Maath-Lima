@@ -6,7 +6,7 @@
 
 I'm a junior software developer living in Recife, Brazil, more focused on backend development with the stacks listed in the toolbox bellow.
 
-Away from the codes in my spare time, I am trying to be a reasonable guitarist/keyboardist🎸🎹
+Away from coding, in my spare time i'm trying to be a reasonable guitar and keyboard player🎸🎹
 
 ---
 

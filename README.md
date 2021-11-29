@@ -1,5 +1,6 @@
-### <img src="https://media3.giphy.com/media/liUhPmZdArpYc/giphy.gif?cid=790b7611a1aaad239d6500d76e2a45ad5fdbc3ba8d7ce562&rid=giphy.gif&ct=g" height="140px">
-A viagem de matheus!
+<p align="center">
+  <img src="https://media3.giphy.com/media/liUhPmZdArpYc/giphy.gif?cid=790b7611a1aaad239d6500d76e2a45ad5fdbc3ba8d7ce562&rid=giphy.gif&ct=g" height="140px">
+</p>
 
 
 

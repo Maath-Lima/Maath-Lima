@@ -4,9 +4,9 @@
 
 ### Matheus' Journey!
 
-I'm a junior software developer living in Recife, Brazil, more focused on backend development with the stacks listed in the toolbox bellow.
+I'm a software developer living in Recife, Brazil, more focused on backend development with the stacks listed in the toolbox bellow.
 
-Away from coding, in my spare time i'm trying to be a reasonable guitar and keyboard player🎸🎹
+Away from coding, in my spare time i'm trying to be a reasonable keyboard player🎸🎹
 
 ---
 
